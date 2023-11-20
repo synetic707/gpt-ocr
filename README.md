@@ -11,7 +11,7 @@ GPT-OCR is an easy-to-use command line interface tool to quickly read text from 
 * OpenAI API Key
 
 ### How to use
-Download the binary here and execute it via command line. Usage:
+Download the binary [here](https://github.com/synetic707/gpt-ocr/releases/tag/1.0) and execute it via command line. Usage:
 ```bash
 gpt-ocr.exe --input (path to the image) --apikey (openai api key)
 ```
